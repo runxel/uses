@@ -127,11 +127,11 @@ To calibrate your display, make dispay profiles, and autoload them. The profiles
 
 ### Backblaze
 The easiest way to backup, and cheap compared to other solutions too. I like how once you've set it up you can just forget about it. I sleep better since I know every bit of data is secured and recoverable.  
-[👁‍🗨 download](https://secure.backblaze.com/r/02fga9)
+[👁‍🗨 download](https://secure.backblaze.com/r/02fga9) <sub>$$$</sub>
 
 ### DisplayFusion Pro
 Invaluable when dealing with multiple monitors. Great to have for the "Multi-taskbar with programs pinned on the right one"-thing alone.  
-[👁‍🗨 download](https://www.displayfusion.com/)
+[👁‍🗨 download](https://www.displayfusion.com/) <sub>$$$</sub>
 
 ### Twinkle Tray
 Does one thing and does it well: Set the display brightness per monitor.  
@@ -139,7 +139,7 @@ Does one thing and does it well: Set the display brightness per monitor.
 
 ### MysticThumbs
 Get thumbnails for a lot of additional file formats, like `.psd` and `.ai`.  
-[👁‍🗨 download](https://mysticcoder.net/mysticthumbs) <sup>$</sup>
+[👁‍🗨 download](https://mysticcoder.net/mysticthumbs) <sub>$$$</sub>
 
 
 ## Utilities
