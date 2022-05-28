@@ -175,6 +175,11 @@ OS: 🏁
 For the more esoteric image formats.  
 [👁‍🗨 download](https://www.irfanview.de/)
 
+### MPC-HC
+OS: 🏁  
+Best video player out there.  
+[👁‍🗨 download](https://github.com/clsid2/mpc-hc)
+
 
 ## Audio
 ### Spotify
