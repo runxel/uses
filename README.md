@@ -1,5 +1,5 @@
 # runxel/uses
-Specifics about the software equipment I use. The page is part of the [uses.tech](https://uses.tech/) project. None of the links are affiliate.  
+Specifics about the software (and some hardware) equipment I use. The page is part of the [uses.tech](https://uses.tech/) project. None of the links are affiliate.  
 
 
 🏁 = Windows, 🍎 = Mac, 🐧 = Linux  
@@ -9,7 +9,7 @@ Last updated: June 2022
 
 ---
 
-## � Software
+## 💻 Software
 - [Firefox](https://www.mozilla.org/de/firefox/new/): Best browser.  
 	<details markdown="1">
 	<summary>Firefox add-ons used …</summary>
