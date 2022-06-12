@@ -129,7 +129,7 @@ Photo to 3D model.
 
 ## 🛠 Hardware
 - [Roccat](https://de.roccat.com/) Kone Aimo
-- Keychron K6 – with Gateron Browns
+- [Keychron](https://www.keychron.com/) K6 – with Gateron Browns
 - Keychron K3 (ultra slim) – with Gateron Browns
 - [Color Munki Smile][munki]
 - [IT8 Target][it8] from Wolf Faust for color corrected scanning
