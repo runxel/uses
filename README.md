@@ -32,7 +32,7 @@ Last updated: June 2022
 	- [Stylus](https://addons.mozilla.org/de/firefox/addon/styl-us/)
 	- [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
 	</details>
-- [Thunderbird](https://www.thunderbird.net/): This is how I read my emails �.
+- [Thunderbird](https://www.thunderbird.net/): This is how I read my emails 📧.
 - "Dot File"-able settings are in a special repo.
 
 ### 👨🏻‍💻 Development
@@ -78,7 +78,7 @@ Last updated: June 2022
 ### 📁 Productivity
 - [Vuescan](https://www.hamrick.com/): Best scanning solution out there. Can be calibrated with an [IT8 target][it8]. I got mine from [Wolf Faust](http://www.targets.coloraid.de/). How the calibration is done can be read [here](https://www.photoinfos.com/Fotosoftware/Vuescan/vuescan-kalibrierung.htm). <a name="scan"></a>
 - [Notion](https://www.notion.so/): Best notekeeping tool. Used as a small Wiki for me. Not fond of the way they abstracted the files away, tho. I also tried [_Roam_](https://roamresearch.com/) and liked the idea, but it's by far overpriced and I don't want my data lying around on their servers. (Also they lost a lot of those data, so I wouldn't trust them at all.) I tried using VSCode with plugins to achieve the same, but offline on my own device. Hasn't made the cut albeit.  
-- [KeePass](https://keepass.info/) [🏁] / [KeePassXC](https://keepassxc.org/) [�] – Stores my passwords. Can be set-up to use on an own cloud for syncing.
+- [KeePass](https://keepass.info/) [🏁] / [KeePassXC](https://keepassxc.org/) [🍎] – Stores my passwords. Can be set-up to use on an own cloud for syncing.
 - [Everything](https://www.voidtools.com/downloads/) [🏁 only] – Actually finds _everything_ on your PC AND on your networkshare; can be fed with RegEx, too!  
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) [🏁 only] – Great, vast powerful software (even tho the UI is a bit _cluttered_), but I use it less since the advent of PowerToys.  
 - [PowerToys](https://github.com/microsoft/PowerToys) [🏁 only] – Filled with goodies! It does so much and boosted my productivity. Replaced many different utilities for me (color picker, window layout manager, image resizer (via context menu), keyboard manager, file renamer, PT Run (like Mac's Spotlight)) 
@@ -102,8 +102,8 @@ Photo to 3D model.
 
 ### 🛠 Utilities
 - [Twinkle Tray](https://twinkletray.com/) [🏁 only] – Does one thing and does it well: Set the display brightness per monitor.
-- [MysticThumbs](https://mysticcoder.net/mysticthumbs) [🏁 only] – <sup>$$$</sup> Get thumbnails for a lot of additional file formats on Windows, like `.psd` and `.ai`.
-- [DisplayFusion Pro](https://www.displayfusion.com/) [🏁 only] – <sup>$$$</sup> Invaluable when dealing with multiple monitors. Great to have for the "Multi-taskbar with programs pinned on the right one"-thing alone.
+- [MysticThumbs](https://mysticcoder.net/mysticthumbs) [🏁 only] <sup>$$$</sup> – Get thumbnails for a lot of additional file formats on Windows, like `.psd` and `.ai`.
+- [DisplayFusion Pro](https://www.displayfusion.com/) [🏁 only] <sup>$$$</sup> – Invaluable when dealing with multiple monitors. Great to have for the "Multi-taskbar with programs pinned on the right one"-thing alone.
 - [CDBurnerXP](https://cdburnerxp.se/) [🏁 only] – Sometimes you still need to burn CDs...  
 - [7-Zip](https://www.7-zip.org/download.html) – The best way to (un)zip.  
 - [IrfanView](https://www.irfanview.de/) [🏁 only] – For the more esoteric image formats.  
@@ -127,7 +127,7 @@ Photo to 3D model.
 - [MediathekView](https://mediathekview.de/download/) – For downloading an viewing the "Öffentlich-Rechtlichen" in Germany. Putting my monthly 17,50 € to great use.
 
 
-## � Hardware
+## 🛠 Hardware
 - [Roccat](https://de.roccat.com/) Kone Aimo
 - Keychron K6 – with Gateron Browns
 - Keychron K3 (ultra slim) – with Gateron Browns
