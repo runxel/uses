@@ -97,6 +97,7 @@ Photo to 3D model.
 	- [Import Rhino files](https://github.com/jesterKing/import_3dm)
 	- [MRMO Halftone emulation](https://mrmotarius.itch.io/mrmo-halftone)
 - [CloudCompare](https://www.danielgm.net/cc/) – 3D point cloud and mesh processing software.
+- [QGIS](https://github.com/qgis/QGIS) – GIS as in its name.
 - [Inkscape](https://inkscape.org/) – Create and edit vector images.
 
 
