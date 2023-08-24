@@ -71,7 +71,7 @@ Last updated: June 2022
 	- TODO Highlight
 	</details>
 - [Sublime Text](http://www.sublimetext.com/) – Redefined the way we look at text editors, and what they should be able to do. Sadly lost it's mojo a couple of years ago. Slow development. Was more or less replaced by VSCode for me...
-- [iTerm] https://iterm2.com/) [🍎] with…
+- [iTerm](https://iterm2.com/) [🍎] with…
 - [fish shell](https://fishshell.com/)
 - [Windows Terminal](https://github.com/microsoft/terminal) [🏁 only]: Finally a nice terminal for Windows! Even steers Linux (WSL). Together with its SSH functionality (install via Windows' "Optional Features") it also replaced _putty_ for me.  Did you know you can start the new Terminal by typing in "wt" in the adress bar of the Explorer? (Same for "cmd" and "wsl")    
 - [WSL](https://docs.microsoft.com/de-de/windows/wsl/install-win10):: Windows Subsystem for Linux. What a great thing – finally use `makefile`s and other nifty Linux stuff. At the moment _Ubuntu_ on WSL1 is running for me well.
