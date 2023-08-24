@@ -21,9 +21,11 @@ Last updated: June 2022
 	- [DjVu.js Viewer](https://addons.mozilla.org/de/firefox/addon/djvu-js-viewer/)
 	- [DownThemAll!](https://addons.mozilla.org/de/firefox/addon/downthemall/)
 	- [Firefox Multi-Account Containers](https://addons.mozilla.org/de/firefox/addon/multi-account-containers/)
+ 	- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) 
 	- [Livemarks](https://addons.mozilla.org/de/firefox/addon/livemarks/)
-	- [Multi-touch Zoom](https://addons.mozilla.org/de/firefox/addon/multi-touch-zoom/)
+	- [Multi-touch Zoom](https://addons.mozilla.org/de/firefox/addon/multi-touch-zoom/) [only needed on win]
 	- [Reddit Enhancement Suite](https://addons.mozilla.org/de/firefox/addon/reddit-enhancement-suite/)
+ 	- [Refined Github](https://github.com/refined-github/refined-github) 
 	- [Regex Search](https://addons.mozilla.org/de/firefox/addon/regexsearch/)
 	- [Search by Image](https://addons.mozilla.org/de/firefox/addon/search_by_image/)
 	- [SingleFile](https://addons.mozilla.org/de/firefox/addon/single-file/)
@@ -68,12 +70,17 @@ Last updated: June 2022
 	- Spell Right
 	- TODO Highlight
 	</details>
-- [Sublime Text](http://www.sublimetext.com/) – Redefined the way we look at text editors, and what they should be able to do. Sadly lost it's mojo a couple of years ago. Slow development. Was more or less replaced by VSCode for me... 
+- [Sublime Text](http://www.sublimetext.com/) – Redefined the way we look at text editors, and what they should be able to do. Sadly lost it's mojo a couple of years ago. Slow development. Was more or less replaced by VSCode for me...
+- [iTerm] https://iterm2.com/) [🍎] with…
+- [fish shell](https://fishshell.com/)
 - [Windows Terminal](https://github.com/microsoft/terminal) [🏁 only]: Finally a nice terminal for Windows! Even steers Linux (WSL). Together with its SSH functionality (install via Windows' "Optional Features") it also replaced _putty_ for me.  Did you know you can start the new Terminal by typing in "wt" in the adress bar of the Explorer? (Same for "cmd" and "wsl")    
 - [WSL](https://docs.microsoft.com/de-de/windows/wsl/install-win10):: Windows Subsystem for Linux. What a great thing – finally use `makefile`s and other nifty Linux stuff. At the moment _Ubuntu_ on WSL1 is running for me well.
 - [XAMPP](https://www.apachefriends.org/de/index.html): Run a local server. Nice for some web projects. However using VSCode with its remote server access was a relevation.
 - [Cyberduck](https://cyberduck.io/) [🏁 only] – FTP client. Not great, not terrible. But all FTP clients on Windows are a dumpster fire. 🤷‍♂️  
 
+### ⌨️ CLI
+- [ne](https://ne.di.unimi.it/) – ne, the nice editor (seriously, forget vim and emacs and nano, this is the real deal)
+- [homebrew](https://brew.sh/)
 
 ### 📁 Productivity
 - [Vuescan](https://www.hamrick.com/): Best scanning solution out there. Can be calibrated with an [IT8 target][it8]. I got mine from [Wolf Faust](http://www.targets.coloraid.de/). How the calibration is done can be read [here](https://www.photoinfos.com/Fotosoftware/Vuescan/vuescan-kalibrierung.htm). <a name="scan"></a>
