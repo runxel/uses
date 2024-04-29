@@ -76,7 +76,8 @@ Last updated: June 2022
 - [Windows Terminal](https://github.com/microsoft/terminal) [🏁 only]: Finally a nice terminal for Windows! Even steers Linux (WSL). Together with its SSH functionality (install via Windows' "Optional Features") it also replaced _putty_ for me.  Did you know you can start the new Terminal by typing in "wt" in the adress bar of the Explorer? (Same for "cmd" and "wsl")    
 - [WSL](https://docs.microsoft.com/de-de/windows/wsl/install-win10):: Windows Subsystem for Linux. What a great thing – finally use `makefile`s and other nifty Linux stuff. At the moment _Ubuntu_ on WSL1 is running for me well.
 - [XAMPP](https://www.apachefriends.org/de/index.html): Run a local server. Nice for some web projects. However using VSCode with its remote server access was a relevation.
-- [Cyberduck](https://cyberduck.io/) [🏁 only] – FTP client. Not great, not terrible. But all FTP clients on Windows are a dumpster fire. 🤷‍♂️  
+- [Cyberduck](https://cyberduck.io/) [🏁 only] – FTP client. Not great, not terrible. But all FTP clients on Windows are a dumpster fire. 🤷‍♂️
+- [PrefEditor](https://apps.tempel.org/PrefsEditor/index.php#download) [🍎] – crucial on Mac  
 
 ### ⌨️ CLI
 - [ne](https://ne.di.unimi.it/) – ne, the nice editor (seriously, forget vim and emacs and nano, this is the real deal)
