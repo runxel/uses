@@ -5,7 +5,7 @@ Specifics about the software (and some hardware) equipment I use. The page is pa
 🏁 = Windows, 🍎 = Mac, 🐧 = Linux  
 If not other specified it runs on Windows and Mac.
 
-Last updated: June 2022
+Last updated: July 2025
 
 ---
 
@@ -116,7 +116,8 @@ Photo to 3D model.
 - [CDBurnerXP](https://cdburnerxp.se/) [🏁 only] – Sometimes you still need to burn CDs...  
 - [7-Zip](https://www.7-zip.org/download.html) – The best way to (un)zip.  
 - [IrfanView](https://www.irfanview.de/) [🏁 only] – For the more esoteric image formats.  
-- [MPC-HC](https://github.com/clsid2/mpc-hc) [🏁 only] – Best video player out there.  
+- [MPC-HC](https://github.com/clsid2/mpc-hc) [🏁 only] – Best video player out there.
+- [TinkterTool](https://www.bresink.com/products-de.html) [🍎]
 
 
 ### 🔊 Audio
