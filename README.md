@@ -5,7 +5,7 @@ Specifics about the software (and some hardware) equipment I use. The page is pa
 🏁 = Windows, 🍎 = Mac, 🐧 = Linux  
 If not other specified it runs on Windows and Mac.
 
-Last updated: July 2025
+Last updated: May 2026
 
 ---
 
@@ -117,7 +117,7 @@ Photo to 3D model.
 - [7-Zip](https://www.7-zip.org/download.html) – The best way to (un)zip.  
 - [IrfanView](https://www.irfanview.de/) [🏁 only] – For the more esoteric image formats.  
 - [MPC-HC](https://github.com/clsid2/mpc-hc) [🏁 only] – Best video player out there.
-- [TinkterTool](https://www.bresink.com/products-de.html) [🍎]
+- [TinkerTool](https://www.bresink.com/osx/TinkerToolOverview.html) [🍎]
 
 
 ### 🔊 Audio
